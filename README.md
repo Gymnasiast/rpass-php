@@ -10,14 +10,24 @@ Based on the original C version by Tim Kuijsten, which can be found [here](https
 
 ## Examples
 Random password from a 40 bit key space:
+```PHP
+<?php
+require 'path/to/Rpass.php';
+echo new \Rpass\Rpass();
 ```
-echo new Rpass();
+which will output:
+```
 jikmus xuzjex
 ```
 
 Random password from a 60 bit key space:
+```PHP
+<?php
+require 'path/to/Rpass.php';
+echo new \Rpass\Rpass(60);
 ```
-echo new Rpass(60)
+which will output:
+```
 loltuk zahxok takrep
 ```
 
