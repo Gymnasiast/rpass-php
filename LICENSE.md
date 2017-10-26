@@ -1,4 +1,4 @@
-Copyright © 2017 Tim Kuijsten
+Copyright © 2017 Tim Kuijsten<br />
 Copyright © 2017 Michael Steenbeek
 
 Permission to use, copy, modify, and/or distribute this software for any
